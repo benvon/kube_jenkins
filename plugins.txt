@@ -1,6 +1,6 @@
 
-ansible
 artifact-promotion
+bootstrap5-api
 command-launcher
 commons-lang3-api
 commons-text-api
@@ -11,6 +11,7 @@ docker-plugin
 docker-workflow
 email-ext
 folder-auth
+font-awesome-api
 git
 github-oauth
 http_request
@@ -21,6 +22,7 @@ kubernetes-pipeline-devops-steps
 kubernetes-credentials
 kubernetes-client-api
 metrics
+plugin-util-api
 script-security
 sonar
 ssh
