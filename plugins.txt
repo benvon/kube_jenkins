@@ -23,6 +23,7 @@ kubernetes-credentials
 kubernetes-client-api
 metrics
 plugin-util-api
+purge-build-queue-plugin
 script-security
 sonar
 ssh
